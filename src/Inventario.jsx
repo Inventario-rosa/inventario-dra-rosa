@@ -1,1 +1,0 @@
-export default function Inventario() { return <div>Listado de medicamentos aquí</div>; }
