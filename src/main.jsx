@@ -1,9 +1,9 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import InventarioMedicamentos from './InventarioMedicamentos'
+import App from './sistemaInventario'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <InventarioMedicamentos />
+    <App />
   </React.StrictMode>
 )
