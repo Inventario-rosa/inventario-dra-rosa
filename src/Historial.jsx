@@ -1,0 +1,1 @@
+export default function Historial() { return <div>Historial de cambios aquí</div>; }

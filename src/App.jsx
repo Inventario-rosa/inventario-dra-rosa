@@ -1,0 +1,1 @@
+export default function App() { return <h1>Sistema Dra. Rosa - Inventario Inicial</h1>; }
