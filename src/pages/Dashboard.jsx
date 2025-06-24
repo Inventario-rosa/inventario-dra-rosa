@@ -1,0 +1,1 @@
+import React from 'react'; const Dashboard = () => (<div>Dashboard - Inventario</div>); export default Dashboard;
